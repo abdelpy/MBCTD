@@ -10,7 +10,7 @@ Given a **before** image and an **after** image of the same geographic area, MBC
 
 | Class | Color | Meaning |
 |---|---|---|
-| **Unchanged** | 🔵 | Building present in both images with no change |
+| **Unchanged** | 🔵 | Building present in both images |
 | **Demolished** | 🔴 | Building present in *before*, absent in *after* |
 | **New** | 🟢 | Building absent in *before*, present in *after* |
 | **Replacement** *(demolished + new)* | 🟡 | Both demolished and new labels active simultaneously |
