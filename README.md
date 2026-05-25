@@ -210,4 +210,4 @@ Inference threshold selected by best F1 on each benchmark.
 
 ## License
 
-This project is licensed under [CC BY-NC 4.0](LICENSE)
+This project is licensed under CC BY-NC 4.0
